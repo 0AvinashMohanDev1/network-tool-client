@@ -1,6 +1,3 @@
-Sure, here’s a detailed and structured README for your project:
-
----
 
 # Network Tool
 
